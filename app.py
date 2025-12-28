@@ -77,7 +77,7 @@ def setup_header():
         </style>
         <div class="main-header">
             <h1>📄 Fintel AI</h1>
-            <p>Advanced Financial Document Intelligence • Powered by Llama 4 Scout</p>
+            <p>Advanced Financial Document Intelligence • Powered by Llama 4 Maverick</p>
         </div>
     """, unsafe_allow_html=True)
 
