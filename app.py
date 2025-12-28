@@ -3,8 +3,8 @@ import streamlit as st
 import subprocess
 import os
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
+import plotly.express as px # type: ignore
+import plotly.graph_objects as go # type: ignore
 from dotenv import load_dotenv
 import tempfile
 from pathlib import Path
